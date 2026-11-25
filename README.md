@@ -5,10 +5,12 @@
 [![reward](https://make.fun/badge/news-image-20261125/vora95/makefun-news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 Sum up Wednesday 25 November 2026's world news in one image: a newspaper
-front page, "THE WORLD TODAY" — 11 featured stories plus 22 more, a markets
-strip and sources. Lead: Huawei convicted in a U.S. criminal trial; Houthis
-hit Riyadh's tallest tower; Nvidia's Huang apologises. All stories reported
-24–25 November 2026; no forecasts.
+front page, "THE WORLD TODAY" — 50 stories across 6 continents. Lead:
+Huawei convicted in a U.S. criminal trial; Houthis hit Riyadh's tallest
+tower; NATO sends early-warning jets to Poland. A world map pins six
+stories (Gulf of Finland, Riyadh, Washington, Gaza City, Strait of Hormuz,
+Koshi in Nepal); a 6-story grid and 41 more stories follow, plus a markets
+strip and sources. All stories reported 24–25 November 2026; no forecasts.
 
 ## Run it
 
