@@ -3,6 +3,7 @@
 
 Writes /output/entry.png: a deterministic copy of the front-page image
 (entry.png) shipped in this repository. Standard library only, no network.
+The output is byte-identical on every run: same source bytes, same sha256.
 """
 import hashlib
 import os
